@@ -43,7 +43,7 @@ setup(
     packages=find_packages(include=['k6_malinois', 'k6_malinois.*']),
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://github.com/FedericoCantarelli/k6_malinois',
+    url='https://github.com/FedericoCantarelli/k6-malinois.git',
     version='0.1.0',
     zip_safe=False,
 )
